@@ -5,6 +5,8 @@
 <ul>
   <li>Tags semânticas</li>
   <li>Uso de classes</li>
+  <li>Criação de links externos</li>
+  <li>Utlização de títulos, parágrafos e seções</li>
   <li>Indetação e organização de um documento HTML</li>
   <li>Propriedades CSS para alinhamento, cores, posicionamento, fontes, etc...</li>
   <li>Utlização de ferramentas como Google Fonts e Figma</li>
