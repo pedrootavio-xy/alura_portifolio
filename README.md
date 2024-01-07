@@ -18,5 +18,5 @@
 <hr>
 
 <img width="960" alt="2024-01-06" src="https://github.com/pedrootavio-xy/alura_portifolio/assets/153446333/2759324c-2729-420a-8a43-08a8cc79a88b">
-<img width="960" alt="2024-01-06 (1)" src="https://github.com/pedrootavio-xy/alura_portifolio/assets/153446333/e410d4b2-c8ee-4163-8452-005b5db4a7eb">
+
 
