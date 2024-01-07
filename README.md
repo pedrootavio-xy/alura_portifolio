@@ -10,10 +10,13 @@
   <li>Indetação e organização de um documento HTML</li>
   <li>Propriedades CSS para alinhamento, cores, posicionamento, fontes, etc...</li>
   <li>Utlização de ferramentas como Google Fonts e Figma</li>
+  <li>Conexão entre duas páginas internas</li>
+  <li>Utilização de variáveis CSS</li>
 </ul>
 
 <hr>
 <hr>
 
-<img width="941" alt="2024-01-02" src="https://github.com/pedrootavio-xy/alura_portifolio/assets/153446333/1998a348-d71e-4d94-bcff-b0a2be34b898">
+<img width="960" alt="2024-01-06" src="https://github.com/pedrootavio-xy/alura_portifolio/assets/153446333/2759324c-2729-420a-8a43-08a8cc79a88b">
+
 
