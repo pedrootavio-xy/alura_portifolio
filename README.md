@@ -12,6 +12,7 @@
   <li>Utlização de ferramentas como Google Fonts e Figma</li>
   <li>Conexão entre duas páginas internas</li>
   <li>Utilização de variáveis CSS</li>
+  <li>Introdução à responsividade</li>
 </ul>
 
 <hr>
