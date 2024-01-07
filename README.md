@@ -11,7 +11,7 @@
   <li>Propriedades CSS para alinhamento, cores, posicionamento, fontes, etc...</li>
   <li>Utlização de ferramentas como Google Fonts e Figma</li>
   <li>Conexão entre duas páginas internas</li>
-  <li>Utlização de variáveis CSS</li>
+  <li>Utilização de variáveis CSS</li>
 </ul>
 
 <hr>
